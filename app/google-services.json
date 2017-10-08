@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269453495165",
+    "firebase_url": "https://androidsensors-e73cf.firebaseio.com",
+    "project_id": "androidsensors-e73cf",
+    "storage_bucket": "androidsensors-e73cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269453495165:android:01567727209e5785",
+        "android_client_info": {
+          "package_name": "kodluyoruz.com.androidsensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269453495165-d20nn4ag7cl1f8hcqsh49t2o2j0csvie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kodluyoruz.com.androidsensors",
+            "certificate_hash": "66a3398039572a6ccb7c38090f323ef492772af1"
+          }
+        },
+        {
+          "client_id": "269453495165-h630bdnftmhlh84mn51pvidemc612at2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCGllfNq72hgr8NPbFwkyz5oaXxUUzJv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269453495165-h630bdnftmhlh84mn51pvidemc612at2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
